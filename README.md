@@ -1,5 +1,6 @@
-# iOSfinalproject
-Musicify - Spotify with a Twist!
+# Musicify - Spotify with a Twist!
+
+The purpose of Musicify is to create a user-friendly application that recommends music based on previous songs a user has listened to.
 
 - [ ]  photos/videos of your working app
 - [ ]  A brief description (title, purpose, tools used)
@@ -7,6 +8,4 @@ Musicify - Spotify with a Twist!
 - [ ]  Obstacles and future additions
 
 
-Brief Description:
-The purpose of Musicify is to create a user-friendly application that recommends music based on previous songs a user has listened to. There are many future additions to come!
 
