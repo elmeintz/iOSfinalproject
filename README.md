@@ -5,7 +5,7 @@
 **ColorPop** is a SwiftUI-based web app that allows users to generate color palettes based on their text input. Whether you're trying to describe the colors of a sunset, the shades of a landscape, or any other visual experience, ColorPop creates a unique color palette that reflects your input. Simply enter a word or phrase (like "sunset"), and ColorPop will generate a palette inspired by that description. 
 
 ### Purpose:
-The goal of ColorPop is to allow users to easily translate visual experiences into color palettes. This helps users articulate visual concepts that might be difficult to describe with traditional color names.
+The goal of ColorPop is to allow users to easily translate visual experiences into color palettes. Have you ever seen something beautiful, like a sunset but can't articulate the color into words? This application configues the ColorMagic API to help people find the perfect color match.
 
 ### Tools Used:
 - **API:** [ColorMagic API](https://colormagic.app/api/palette/search) – Provides color palettes based on user input.
